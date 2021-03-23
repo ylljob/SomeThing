@@ -24,4 +24,8 @@ public class ItemsController {
     public void say(){
         System.out.println("我是Tom");
     }
+
+    public void run (){
+        System.out.println("tom在跑!");
+    }
 }
