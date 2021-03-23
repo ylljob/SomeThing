@@ -28,5 +28,4 @@ public class ItemsController {
     public void say_jack(){
         System.out.println("我是jack");
     }
-
 }
