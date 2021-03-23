@@ -28,4 +28,8 @@ public class ItemsController {
     public void run (){
         System.out.println("tom在跑!");
     }
+
+    public void say_jack(){
+        System.out.println("我是jack");
+    }
 }
